@@ -1,0 +1,18 @@
+{
+  "name": "binary-spec",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Fabeuluci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fabeuluci/binary-spec.git"
+  },
+  "main": "out/main/index.js",
+  "typings": "out/main/index.d.ts",
+  "dependencies": {
+    "buffer-stream-js": "^1.0.0",
+    "uint8array-utils": "^1.0.0"
+  }
+}
